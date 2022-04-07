@@ -9,4 +9,4 @@ def print_n(s,n):
     print(s)
     print_n(s,n-1)
 
-print(print_n("Hi",5))
+print(print_n("Hello",7))
